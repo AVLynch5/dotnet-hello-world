@@ -1,0 +1,15 @@
+/Users/avlynch5/Prime/Tier2/Assignments/Wk8-.net/dotnet-hello-world/myHelloWorld/bin/Debug/net5.0/myHelloWorld.deps.json
+/Users/avlynch5/Prime/Tier2/Assignments/Wk8-.net/dotnet-hello-world/myHelloWorld/bin/Debug/net5.0/myHelloWorld.runtimeconfig.json
+/Users/avlynch5/Prime/Tier2/Assignments/Wk8-.net/dotnet-hello-world/myHelloWorld/bin/Debug/net5.0/myHelloWorld.runtimeconfig.dev.json
+/Users/avlynch5/Prime/Tier2/Assignments/Wk8-.net/dotnet-hello-world/myHelloWorld/bin/Debug/net5.0/myHelloWorld.dll
+/Users/avlynch5/Prime/Tier2/Assignments/Wk8-.net/dotnet-hello-world/myHelloWorld/bin/Debug/net5.0/ref/myHelloWorld.dll
+/Users/avlynch5/Prime/Tier2/Assignments/Wk8-.net/dotnet-hello-world/myHelloWorld/bin/Debug/net5.0/myHelloWorld.pdb
+/Users/avlynch5/Prime/Tier2/Assignments/Wk8-.net/dotnet-hello-world/myHelloWorld/obj/Debug/net5.0/myHelloWorld.csproj.AssemblyReference.cache
+/Users/avlynch5/Prime/Tier2/Assignments/Wk8-.net/dotnet-hello-world/myHelloWorld/obj/Debug/net5.0/myHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avlynch5/Prime/Tier2/Assignments/Wk8-.net/dotnet-hello-world/myHelloWorld/obj/Debug/net5.0/myHelloWorld.AssemblyInfoInputs.cache
+/Users/avlynch5/Prime/Tier2/Assignments/Wk8-.net/dotnet-hello-world/myHelloWorld/obj/Debug/net5.0/myHelloWorld.AssemblyInfo.cs
+/Users/avlynch5/Prime/Tier2/Assignments/Wk8-.net/dotnet-hello-world/myHelloWorld/obj/Debug/net5.0/myHelloWorld.csproj.CoreCompileInputs.cache
+/Users/avlynch5/Prime/Tier2/Assignments/Wk8-.net/dotnet-hello-world/myHelloWorld/obj/Debug/net5.0/myHelloWorld.dll
+/Users/avlynch5/Prime/Tier2/Assignments/Wk8-.net/dotnet-hello-world/myHelloWorld/obj/Debug/net5.0/ref/myHelloWorld.dll
+/Users/avlynch5/Prime/Tier2/Assignments/Wk8-.net/dotnet-hello-world/myHelloWorld/obj/Debug/net5.0/myHelloWorld.pdb
+/Users/avlynch5/Prime/Tier2/Assignments/Wk8-.net/dotnet-hello-world/myHelloWorld/obj/Debug/net5.0/myHelloWorld.genruntimeconfig.cache
